@@ -1,0 +1,6 @@
+PASS: ZIP integrity and 38 SHA256 entries
+PASS: actual AMD64 Windows GUI PE; SHA256 f3f6c944fc46b56e175cbf57dfd32b8dbc792a214192ddd0001947dff2c6ffdb
+PASS: only Windows system DLLs imported: comdlg32.dll, kernel32.dll, msvcrt.dll, ole32.dll, shell32.dll, user32.dll
+PASS: application and linked engine corresponding source present
+PASS: extracted GUI + packaged real PDF/Excel sample files; 50 assertions; exit=0
+UNVERIFIED: execution on a physical Microsoft Windows machine

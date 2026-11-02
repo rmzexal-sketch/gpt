@@ -1,0 +1,8 @@
+Corresponding source, split into ordered binary parts.
+Windows CMD:
+copy /b AiPDF-v0.0008-source.tar.gz.part01+AiPDF-v0.0008-source.tar.gz.part02+AiPDF-v0.0008-source.tar.gz.part03 AiPDF-v0.0008-source.tar.gz
+
+POSIX shell:
+cat AiPDF-v0.0008-source.tar.gz.part* > AiPDF-v0.0008-source.tar.gz
+
+Combined SHA256: 7073c232af6aaab01f570a1df8c533b94701a1a67aa5912ef4a2ecfdd749e099

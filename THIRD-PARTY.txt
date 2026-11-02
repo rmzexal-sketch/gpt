@@ -1,0 +1,8 @@
+Ai PDF v0.0008
+Application: C17 / Win32, GNU AGPL v3.
+MuPDF 1.26.11: Artifex Software and contributors, GNU AGPL v3 (COPYING included).
+Corresponding source including selected third-party submodules is included in source/AiPDF-v0.0008-source.tar.gz.
+See thirdparty/mupdf/docs/other/third-party.rst and each third-party license in that source.
+MuPDF optional OCR/barcode components are not compiled.
+Statically linked GCC runtime libraries: GCC Runtime Library Exception to GPL v3; see GCC-RUNTIME-COPYRIGHT.txt.
+No Microsoft Visual C++ runtime DLLs or PyMuPDF DLLs are distributed in this build.

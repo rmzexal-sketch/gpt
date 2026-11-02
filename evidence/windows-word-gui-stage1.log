@@ -1,0 +1,51 @@
+PASS 1: test arguments supplied
+PASS 2: Windows GUI process created
+PASS 3: actual Win32 main window created
+PASS 4: menu 3 starts disabled
+PASS 5: temporary test path obtained
+PASS 6: unique test directory name reserved
+PASS 7: temporary reservation removed
+PASS 8: isolated GUI test directory created
+PASS 9: workbook copied for change/recovery test
+PASS 10: file dialog opened in actual application
+PASS 11: file selection path entered
+PASS 12: Open button found
+PASS 13: file dialog opened in actual application
+PASS 14: file selection path entered
+PASS 15: Open button found
+PASS 16: verification dialogs completed
+PASS 17: matching pair enables actual menu 3 button
+PASS 18: menu 3 opens Word output folder picker
+PASS 19: Word output folder entered
+PASS 20: Word folder picker accepted
+PASS 21: Word export committed a run folder
+PASS 22: Word export directory is committed, not partial
+PASS 23: actual Word DOCX exists after GUI export
+PASS 24: Word export preserves valid gate
+PASS 25: verified workbook opened for external mutation
+PASS 26: verified workbook content changed
+PASS 27: timer detects content change and disables menu 3
+PASS 28: original matching workbook restored
+PASS 29: restoring bytes alone does not unlock menu 3
+PASS 30: file dialog opened in actual application
+PASS 31: file selection path entered
+PASS 32: Open button found
+PASS 33: file dialog opened in actual application
+PASS 34: file selection path entered
+PASS 35: Open button found
+PASS 36: verification dialogs completed
+PASS 37: mismatching pair leaves actual menu 3 button disabled
+PASS 38: file dialog opened in actual application
+PASS 39: file selection path entered
+PASS 40: Open button found
+PASS 41: file dialog opened in actual application
+PASS 42: file selection path entered
+PASS 43: Open button found
+PASS 44: verification dialogs completed
+PASS 45: matching pair enables actual menu 3 button
+PASS 46: new selection opens file dialog
+PASS 47: new selection invalidates earlier PASS
+PASS 48: cancelled selection stays locked
+PASS 49: application exits cleanly
+PASS 50: GUI process exit status zero
+COMPLETED: 50 Win32 GUI assertions; Wine execution, not physical Windows
