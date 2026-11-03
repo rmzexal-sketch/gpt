@@ -1,0 +1,34 @@
+{
+  "Restore-AiPDF-full.cmd": {
+    "bytes": 245,
+    "sha256": "4fd796ebcc62b6c30ad4adff533fefc414b8277f42127d0d0c1e54fe1681a51e"
+  },
+  "README.txt": {
+    "bytes": 477,
+    "sha256": "87d96b3a6fb0f491d0f854ea4ed09e65c70018da6430abf04a92930bc4e14b28"
+  },
+  "AiPDF-v0.0008-ui-r4-full.zip.001": {
+    "bytes": 83886080,
+    "sha256": "a8117cc18ff878998c7149e06fc162355d5c55541011054b537c351c62f091a7"
+  },
+  "AiPDF-v0.0008-ui-r4-full.zip.003": {
+    "bytes": 70647372,
+    "sha256": "b5ba41390ae47f507594a079896aeba84cfdd3d94d939f05d6aa642c98669228"
+  },
+  "RELEASE-STATUS.md": {
+    "bytes": 5132,
+    "sha256": "26a7409558ce87c8a4c5c6ec80f78666d10f9d4f8050f1c0fec45c9bf0e2096c"
+  },
+  "AiPDF-v0.0008-ui-r4-full.zip.002": {
+    "bytes": 83886080,
+    "sha256": "7ef7f0c8b3be5e9d35eeea60c8c3a97d55e1d91386a3230e47b6e7b45f70e656"
+  },
+  "AiPDF-v0.0008-ui-r4-runtime.zip": {
+    "bytes": 30465984,
+    "sha256": "52067fe40b9f3e0c6eed8d6bc63e586f442d4ab42edf0ca7ef2069efd088c9ea"
+  },
+  "reassembled_full_zip": {
+    "bytes": 238419532,
+    "sha256": "493f6c43c09511d5450c7bcba490f2fbfb9e706c40146aba5d5735b8785f234d"
+  }
+}
